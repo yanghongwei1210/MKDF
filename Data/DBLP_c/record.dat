@@ -1,0 +1,24 @@
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=30, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=100, attributed=True, supervised=True
+model=HAN, task=nc, attributed=True, supervised=True
+size=64, nhead=8, dropout=0.4, neigh-por=0.6, lr=0.01, batch-size=256, epochs=50, attributed=True, supervised=True
